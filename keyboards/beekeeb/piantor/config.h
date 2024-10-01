@@ -11,4 +11,5 @@
 #define SERIAL_USART_TX_PIN GP0
 #define SERIAL_USART_RX_PIN GP1
 
+// Try using this instead of VBUS
 #define SPLIT_USB_DETECT
