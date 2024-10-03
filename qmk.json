@@ -5,6 +5,7 @@
         ["crkbd/rev1", "default"],
         ["sofle_choc", "default"],
         ["sofle/rev1", "default"],
-        ["sofle/rev1", "rgb_default"]
+        ["sofle/rev1", "rgb_default"],
+        ["lily58/rev1", "default"]
     ]
 }
