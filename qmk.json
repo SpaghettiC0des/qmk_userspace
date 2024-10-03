@@ -3,6 +3,7 @@
     "build_targets": [
         ["beekeeb/piantor", "vial"],
         ["crkbd/rev1", "default"],
-        ["sofle_choc", "default"]
+        ["sofle_choc", "default"],
+        ["sofle/rev1", "default"]
     ]
 }
