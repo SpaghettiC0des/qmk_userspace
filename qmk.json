@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["beekeeb/piantor", "vial"]
+        ["beekeeb/piantor", "vial"],
+        ["crkbd/rev1", "default"]
     ]
 }
