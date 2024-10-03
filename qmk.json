@@ -2,6 +2,7 @@
     "userspace_version": "1.1",
     "build_targets": [
         ["beekeeb/piantor", "vial"],
-        ["crkbd/rev1", "default"]
+        ["crkbd/rev1", "default"],
+        ["sofle_choc", "default"]
     ]
 }
